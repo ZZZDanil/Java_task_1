@@ -6,4 +6,13 @@
     <listener>
         <listener-class>task_1.Main</listener-class>
     </listener>
+    <servlet>
+        <servlet-name>ServletFirst</servlet-name>
+        <servlet-class>task_2.ServletFirst</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ServletFirst</servlet-name>
+        <url-pattern>/HelloFirst</url-pattern>
+    </servlet-mapping>
+
 </web-app>
