@@ -15,4 +15,14 @@
         <url-pattern>/HelloFirst</url-pattern>
     </servlet-mapping>
 
+<!--    <filter>-->
+<!--    <filter-name>SimpleFilter1</filter-name>-->
+<!--    <filter-class>task_4.SimpleFilter1</filter-class>-->
+<!--    </filter>-->
+<!--    <filter-mapping>-->
+<!--        <filter-name>SimpleFilter1</filter-name>-->
+<!--        <url-pattern>/*</url-pattern>-->
+<!--&lt;!&ndash;        <dispatcher>REQUEST</dispatcher>&ndash;&gt;-->
+<!--    </filter-mapping>-->
+
 </web-app>
